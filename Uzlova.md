@@ -95,5 +95,5 @@
 даты](https://support.microsoft.com/help/4578254), [конвертировать
 валюту](https://support.microsoft.com/help/4578260), а если вы
 используете стандартный режим, вы можете сохранить окно калькулятора
-поверх других окон(https://support.microsoft.com/help/4578261).
+поверх других окон (https://support.microsoft.com/help/4578261).
 
